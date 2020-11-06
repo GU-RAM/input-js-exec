@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: red;a */
+}
+
+img {
+    max-width: 100%;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+input {
+    margin-right: 10px;
+}
+
+input:hover, .btn:hover {
+    -moz-box-shadow:    1px 1px 3px 1px #464c63;
+   -webkit-box-shadow: 1px 1px 3px 1px #464c63;
+   box-shadow:         1px 1px 3px 1px #464c63;
+}
+
